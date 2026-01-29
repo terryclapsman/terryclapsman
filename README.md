@@ -39,6 +39,6 @@
 ---
 
 ### 📫 Связь со мной
-* **Telegram:** [@terrykss](https://t.me/terrykss)
+* **Telegram:** [@terry_undf](https://t.me/terry_undf)
 * **VK:** [@tclaps](https://t.me/tclaps)
 * **Email:** `terryclapsman@gmail.com`
