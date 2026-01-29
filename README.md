@@ -38,13 +38,6 @@
 
 ---
 
-### 📊 Моя статистика
-Здесь можно глянуть, на чем я кодил больше всего в последнее время:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ЗАМЕНИ_НА_СВОЙ_НИК&layout=compact&theme=vision-friendly-dark)
-
----
-
 ### 📫 Связь со мной
 * **Telegram:** [@terrykss](https://t.me/terrykss)
 * **VK:** [@tclaps](https://t.me/tclaps)
